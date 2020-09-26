@@ -636,3 +636,5 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/django,visualstudio,vim,pycharm+all,macos
+
+.vscode/
